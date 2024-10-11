@@ -2,11 +2,11 @@ import java.sql.SQLOutput;
 
 public class Atividade22 {
     public static void main(String[] args) {
-        mensagemDeBoasvindas();
+        mensagemDeBoasVindas();
         menu();
     }
 
-    public static void mensagemDeBoasvindas(){
+    public static void mensagemDeBoasVindas(){
         System.out.println("Seja Bem Vindo");
     }
 
