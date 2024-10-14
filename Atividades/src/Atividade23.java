@@ -19,9 +19,14 @@ public class Atividade23 {
     }
 
     public static void menu(){
-        System.out.println("== Menu ==");
+        Scanner input = new Scanner(System.in);
+        int res;
+        do {
+            System.out.println("== Menu ==");
 
-        System.out.println("1 - Entradas\n2 - Prato Carne\n3 - Prato Peixe\n4 - Sobremesa\n5 - Sair");
+            System.out.println("1 - Entradas\n2 - Prato Carne\n3 - Prato Peixe\n4 - Sobremesa\n5 - Sair");
+            res = input.nextInt();
+        }while(res != 5);
     }
 
     public static String user() {
@@ -30,8 +35,14 @@ public class Atividade23 {
     }
 
     public static void menu18(){
-        System.out.println("== Menu ==");
+        Scanner input = new Scanner(System.in);
+        int res;
+        do {
+            System.out.println("== Menu ==");
 
-        System.out.println("1 - Entradas\n2 - Prato Carne\n3 - Prato Peixe\n4 - Sobremesa\n5 - Carta de vinho\n6 - Sair");
+            System.out.println("1 - Entradas\n2 - Prato Carne\n3 - Prato Peixe\n4 - Sobremesa\n5 - Carta de vinho\n6 - Sair");
+            System.out.println("Resposta: ");
+            res = input.nextInt();
+        }while(res != 6);
     }
 }
