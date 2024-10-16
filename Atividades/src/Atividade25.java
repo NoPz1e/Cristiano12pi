@@ -10,14 +10,16 @@ public class Atividade25 {
         System.out.print("Digite o ano atual: ");
         int anoAtual = input.nextInt();
 
+        int idade = idade(anoNascimento,anoAtual);
 
-
-        if(idade(anoNascimento, anoAtual) >= 18){
+        if(idade >= 18){
             menu18();
         }else {
             menu();
         }
     }
+
+
 
     public static int idade(int anoNas, int anoAtual) {
         return anoAtual - anoNas;
