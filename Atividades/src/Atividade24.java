@@ -1,13 +1,12 @@
 import java.util.Scanner;
 
-public class Atividade23 {
+public class Atividade24 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         mensagemDeBoasVindas();
 
         System.out.print("Digite a sua idade: ");
         int idade = input.nextInt();
-
 
 
         if(idade >= 18){
