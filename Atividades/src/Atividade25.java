@@ -13,13 +13,11 @@ public class Atividade25 {
         int idade = idade(anoNascimento,anoAtual);
 
         if(idade >= 18){
-            menu18();
+            menu(idade);
         }else {
             menu();
         }
     }
-
-
 
     public static int idade(int anoNas, int anoAtual) {
         return anoAtual - anoNas;
@@ -45,7 +43,7 @@ public class Atividade25 {
         return user;
     }
 
-    public static void menu18(){
+    public static void menu(int idade){
         Scanner input = new Scanner(System.in);
         int res;
         do {
