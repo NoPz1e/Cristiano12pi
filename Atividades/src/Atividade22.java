@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Atividade22 {
     public static void main(String[] args) {
         mensagemDeBoasVindas();
