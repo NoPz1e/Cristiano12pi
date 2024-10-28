@@ -32,11 +32,19 @@ public class conta {
     public void levantar(){
 
         float temp = 0;
-        while (temp <= 0){
-            System.out.print("Valor a levantar: ");
-            temp = input.nextFloat();
+
+        if(saldo > 0){
+
+            do{
+                System.out.print("Valor a levantar: ");
+                temp = input.nextFloat();
+            }while(temp < 0);
+
+            saldo -= temp;
+
+        }else{
+            System.out.println("ERRO: Não tem saldo suficiente na conta.");
         }
 
-        saldo += temp;
     }
 }
