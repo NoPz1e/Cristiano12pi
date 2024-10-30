@@ -4,9 +4,10 @@ public class Main {
         Bolo boloAniversario = new Bolo();
 
         // Definir os detalhes do bolo
-        boloAniversario.sabor = "Morango";
-        boloAniversario.tamanho = 30;
-        boloAniversario.cobertura = false;
+        boloAniversario.setSabor("Morango");
+        boloAniversario.setTamanho(30);
+        boloAniversario.setCobertura(false);
+
 
         // Mostrar os detalhes do bolo
         boloAniversario.exibirDetalhes();
