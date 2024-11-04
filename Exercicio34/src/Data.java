@@ -24,8 +24,22 @@ public class Data {
     }
 
     public void setData(int dia, int mes, int ano){
-        this.dia = dia;
-        this.mes = mes;
-        this.ano = ano;
+        if (dia >= 1 && dia <= 31){
+            this.dia = dia;
+        }else{
+            System.out.println("wrong number range!");
+        }
+
+        if (mes >1 && mes <= 31){
+            this.mes = mes;
+        }else{
+            System.out.println("wrong number range!");
+        }
+
+        if (ano >=  0){
+            this.ano = ano;
+        }else{
+            System.out.println("wrong number range!");
+        }
     }
 }
