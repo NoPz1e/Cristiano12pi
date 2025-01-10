@@ -23,10 +23,4 @@ public class TarefasController {
         return tarefa;
     }
 
-    @DeleteMapping
-    public Tarefas deleteTarefa (@RequestBody Tarefas tarefa){
-        tarefasList.remove(tarefa);
-        return tarefa;
-    }
-
 }

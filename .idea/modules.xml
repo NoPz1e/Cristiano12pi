@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/Atividades/Atividades.iml" filepath="$PROJECT_DIR$/Java/Atividades/Atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio32/Exercicio32.iml" filepath="$PROJECT_DIR$/Java/Exercicio32/Exercicio32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio33/Exercicio33.iml" filepath="$PROJECT_DIR$/Java/Exercicio33/Exercicio33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio34/Exercicio34.iml" filepath="$PROJECT_DIR$/Java/Exercicio34/Exercicio34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio35/Exercicio35.iml" filepath="$PROJECT_DIR$/Java/Exercicio35/Exercicio35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio36/Exercicio36.iml" filepath="$PROJECT_DIR$/Java/Exercicio36/Exercicio36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio39/Exercicio39.iml" filepath="$PROJECT_DIR$/Java/Exercicio39/Exercicio39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio40/Exercicio40.iml" filepath="$PROJECT_DIR$/Java/Exercicio40/Exercicio40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio41/Exercicio41.iml" filepath="$PROJECT_DIR$/Java/Exercicio41/Exercicio41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio42/Exercicio42.iml" filepath="$PROJECT_DIR$/Java/Exercicio42/Exercicio42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio43/Exercicio43.iml" filepath="$PROJECT_DIR$/Java/Exercicio43/Exercicio43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio44/Exercicio44.iml" filepath="$PROJECT_DIR$/Java/Exercicio44/Exercicio44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio45/Exercicio45.iml" filepath="$PROJECT_DIR$/Java/Exercicio45/Exercicio45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio46/Exercicio46.iml" filepath="$PROJECT_DIR$/Java/Exercicio46/Exercicio46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio47/Exercicio47.iml" filepath="$PROJECT_DIR$/Java/Exercicio47/Exercicio47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio48/Exercicio48.iml" filepath="$PROJECT_DIR$/Java/Exercicio48/Exercicio48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Exercicio49/Exercicio49.iml" filepath="$PROJECT_DIR$/Java/Exercicio49/Exercicio49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/aula1/aula1.iml" filepath="$PROJECT_DIR$/Java/aula1/aula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/aula15/aula15.iml" filepath="$PROJECT_DIR$/Java/aula15/aula15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/aula2/aula2.iml" filepath="$PROJECT_DIR$/Java/aula2/aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/aula3/aula3.iml" filepath="$PROJECT_DIR$/Java/aula3/aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/aula4/aula4.iml" filepath="$PROJECT_DIR$/Java/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/cleection/cleection.iml" filepath="$PROJECT_DIR$/Java/cleection/cleection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/.idea/java.iml" filepath="$PROJECT_DIR$/Java/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/aula4/test/test.iml" filepath="$PROJECT_DIR$/Java/aula4/test/test.iml" />
+    </modules>
+  </component>
+</project>
