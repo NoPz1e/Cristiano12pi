@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang=pt xmlns:th="https://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lista tarefas</title>
+    <link rel="stylesheet" th:href="@{/src/main/resources/static/css/lista_tarefas.css}">
+    
+</head>
+    <header>
+        <h1>Lista de Tarefas</h1>
+    </header>
+    <body>
+
+        <div class="formulario">        
+
+            <form action="/add" method="post">
+                <input type="text" name="Nova tarefa" required>
+                <button>Adicionar</button>
+            </form>
+            
+        </div>
+
+        <th:block th:each="tarefa : ${tarefas}">
+            <li id="tarefa1">
+                <span th:text="${tarefas.tarefa}"></span>
+                <a th:href="@{/}" class="Remover" onclick="return confirm('Tem a certeza que pretende apagar esta tarefa?')">Remover</a>
+            </li>
+        </th:block>
+        <ul>
+
+
+        </ul>
+    </body>
+    <style>
+
+    </style>
+
+</html>
