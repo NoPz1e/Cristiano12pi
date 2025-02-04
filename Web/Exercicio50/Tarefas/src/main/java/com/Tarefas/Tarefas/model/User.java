@@ -1,7 +1,7 @@
 package com.Tarefas.Tarefas.model;
 
 public class User {
-    private Long id;
+    private long id;
     private String nome;
 
     // Construtor
@@ -10,7 +10,7 @@ public class User {
     }
 
     // Construtor II
-    public User(Long id, String nome){
+    public User(long id, String nome){
         this.id = id;
         this.nome = nome;
     }

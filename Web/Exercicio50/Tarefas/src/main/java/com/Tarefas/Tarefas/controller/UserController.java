@@ -2,7 +2,6 @@ package com.Tarefas.Tarefas.controller;
 
 import com.Tarefas.Tarefas.model.*;
 
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.ui.Model;
